@@ -2071,10 +2071,10 @@ ul.socials li.xing .circle-icon {
         font-size: 18px;
     }
     .special-tab ul.special-tabs-titles {
-        height: 53px;
+        height: 205px;
     }
     .special-tab .special-tabs-titles li span {
-        display: none;
+        /* display: none; */
     }
     .food-menu-item h5 {
         font-size: 16px;
